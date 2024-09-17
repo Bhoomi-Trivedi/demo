@@ -5,5 +5,5 @@ demo for git and github
 gaurang trivedi
 
 # student
-sybca class 
+sybca class.
 
